@@ -1,0 +1,6 @@
+cd my project/
+git init
+heroku git:remote -a h1823617327
+git add .
+git commit -am "make it better"
+git push heroku main
